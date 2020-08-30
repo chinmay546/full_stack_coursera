@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+
+.box {
+    background: #AB9995;
+    margin: 10px;
+}
+
+.head {
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.head1 {
+    float: left;
+    font-size: 30px;
+    padding: 10px;
+    padding-left: 15px;
+    font-weight: 500;
+}
+
+nav {
+    background-color: bisque;
+}
+
+p {
+    padding: 10px;
+}
+
+.navbar-dark .navbar-nav a.nav-link {
+
+    text-align: center;
+}
+
+hr {
+
+    align-content: center;
+    width: 75%;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.container-fluid {
+    background-color: lightgray;
+}
+
+h4 {
+    text-align: center;
+}
+
+nav {
+    background-color: bisque;
+}
